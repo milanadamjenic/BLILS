@@ -41,3 +41,7 @@ ICC <- varests[1]/sum(varests) # computes ICC
 ICC
 colSums(is.na(dataItems))
 fashion(colSums)
+
+
+#github
+#https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/
